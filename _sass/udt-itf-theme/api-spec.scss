@@ -81,8 +81,8 @@
   table {
     border-collapse: collapse;
     display: block;
-    max-width: -moz-fit-content;
-    max-width: fit-content;
+    /* max-width: -moz-fit-content; */
+    /* max-width: fit-content; */
     overflow-x: auto;
     td {
       border: solid 1px $black;
